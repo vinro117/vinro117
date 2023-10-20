@@ -2,7 +2,7 @@
 - 👀 I’m interested in java , SQL programming 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on Java software field 
-- 📫 How to reach me vincentraja117@gmail.com
+- 📫 How to reach me vincentraja117@gmail.com 9043484577
 
 <!---
 vinro117/vinro117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
